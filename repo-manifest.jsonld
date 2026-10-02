@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/berd/commit/81ca89585f68f4d85e7dccf3a4842e401acf18e4",
       "git:hexsha": "81ca89585f68f4d85e7dccf3a4842e401acf18e4",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     },
     {
