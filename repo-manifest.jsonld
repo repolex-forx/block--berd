@@ -62,7 +62,7 @@
     {
       "@id": "https://repolex.ai/r/block/berd/commit/a6b03407735bc2156a70c901d44a87f31e91c8e5",
       "git:hexsha": "a6b03407735bc2156a70c901d44a87f31e91c8e5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/block/berd/commit/e7bc9336911bc1273d094bbbfd2eba2f898e0e65",
