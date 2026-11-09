@@ -58,6 +58,17 @@
       "git:hexsha": "5d5708e64ff37a850a6bc10e1e29eda852440bb7",
       "repolex:parseStatus": "pending",
       "git:tagName": "v0.6.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/berd/commit/a6b03407735bc2156a70c901d44a87f31e91c8e5",
+      "git:hexsha": "a6b03407735bc2156a70c901d44a87f31e91c8e5",
+      "repolex:parseStatus": "metadata_complete"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/berd/commit/e7bc9336911bc1273d094bbbfd2eba2f898e0e65",
+      "git:hexsha": "e7bc9336911bc1273d094bbbfd2eba2f898e0e65",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.6.5"
     }
   ]
 }
